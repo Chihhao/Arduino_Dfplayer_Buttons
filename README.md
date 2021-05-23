@@ -18,6 +18,9 @@
 (12) 外盒  
 ## 函式庫 (已內含)  
 (1) https://github.com/DFRobot/DFRobotDFPlayerMini  
+## 說明  
+(1) 共有六顆按鈕，按下#1播放第1首，按下#2播放第2首，按下#1+#2播放第3首，按下#3播放第4首，以此類推。  
+(2) 旋鈕可調整音量  
 ## 照片如下  
 ![image](https://github.com/Chihhao/Arduino_Dfplayer_Buttons/blob/main/image/wiring.png)  
 ![image](https://github.com/Chihhao/Arduino_Dfplayer_Buttons/blob/main/image/2.jpg)  
