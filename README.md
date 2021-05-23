@@ -15,7 +15,9 @@
 (9) 船型開關 x 1  
 (10) 1000uF電解電容 x 1  
 (11) micro usb 轉接板 x 1  
-(12) 外盒  
+(12) 18650鋰電池 x 1  
+(13) 2歐姆喇叭 x 1  
+(14) 外盒  
 ## 函式庫 (已內含)  
 (1) https://github.com/DFRobot/DFRobotDFPlayerMini  
 ## 說明  
