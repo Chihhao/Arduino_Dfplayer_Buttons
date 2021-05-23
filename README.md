@@ -21,5 +21,5 @@
 ## 照片如下  
 ![image](https://github.com/Chihhao/Arduino_Dfplayer_Buttons/blob/main/image/wiring.png)  
 ![image](https://github.com/Chihhao/Arduino_Dfplayer_Buttons/blob/main/image/2.jpg)  
-![image](https://github.com/Chihhao/Arduino_Dfplayer_Buttons/blob/main/image/3.jpg)  
+![image](https://github.com/Chihhao/Arduino_Dfplayer_Buttons/blob/main/image/5.jpg)  
 
