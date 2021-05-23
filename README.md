@@ -20,7 +20,9 @@
 (1) https://github.com/DFRobot/DFRobotDFPlayerMini  
 ## 說明  
 (1) 共有六顆按鈕，按下#1播放第1首，按下#2播放第2首，按下#1+#2播放第3首，按下#3播放第4首，以此類推。  
-(2) 旋鈕可調整音量  
+(2) 最多到第64首  
+(3) 旋鈕可調整音量  
+(4) mp3檔案放在SD卡中，必須按以下格式命名: 0001_歌名.mp3, 0002_歌名.mp3, ...  
 ## 照片如下  
 ![image](https://github.com/Chihhao/Arduino_Dfplayer_Buttons/blob/main/image/wiring.png)  
 ![image](https://github.com/Chihhao/Arduino_Dfplayer_Buttons/blob/main/image/2.jpg)  
